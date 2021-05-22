@@ -1,4 +1,4 @@
-# 42Cursus Level0 "Libft"
+# 42Cursus project Level0 "Libft"
 
 ## Description
 
